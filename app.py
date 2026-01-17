@@ -359,4 +359,4 @@ st.markdown("""
 
 # Footer
 st.markdown("---")
-st.markdown("🎯 **Bulk Download dengan Auto-Cleaning URLs** | Made with ❤️ using Streamlit")
+st.markdown("🎯 **Bulk Download dengan Auto-Cleaning URLs** | Made with ❤️ By: Didinchy")
