@@ -19,3 +19,5 @@ google-api-python-client
 requests
 gdown
 ffprobe
+requests
+beautifulsoup4
