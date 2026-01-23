@@ -1,14 +1,3 @@
-def load_api_key():
-    if not os.path.exists(API_KEY_FILE):
-        return ""
-
-    try:
-        with open(API_KEY_FILE, "r") as f:
-            data = json.load(f)
-            return data.get("api_key", "")
-    except json.JSONDecodeError:
-        # File ada tapi rusak / kosong
-        return ""
-    except Exception:
-        return ""
-
+{
+  "api_key": "733649a9b1c750cb2caf2631855d9222"
+}
